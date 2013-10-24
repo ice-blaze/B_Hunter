@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1361220676 source:d:\dropbox\sdl projects\b_hunter\char.cpp
+	"Char.h"
+	"constants.h"
+	"classic_function.h"
+	<SDL_rotozoom.h>
+	"SDL_Image.h"
+
+1361218378 d:\dropbox\sdl projects\b_hunter\char.h
+	"SDL.h"
+	<string>
+	<vector>
+
+1358966773 d:\dropbox\sdl projects\b_hunter\constants.h
+
+1356529273 d:\dropbox\sdl projects\b_hunter\classic_function.h
+	"SDL.h"
+	<string>
+
+1359056385 source:d:\dropbox\sdl projects\b_hunter\classic_function.cpp
+	"classic_function.h"
+	<time.h>
+	<cstdlib>
+	"SDL_image.h"
+
+1356530757 source:d:\dropbox\sdl projects\b_hunter\timer.cpp
+	"Timer.h"
+	"SDL.h"
+
+1356530691 d:\dropbox\sdl projects\b_hunter\timer.h
+
+1362945540 source:d:\dropbox\sdl projects\b_hunter\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL.h>
+	<vector>
+	<sstream>
+	<time.h>
+	"SDL_gfxPrimitives.h"
+	"constants.h"
+	"classic_function.h"
+	"Char.h"
+	"Timer.h"
+	"Math2D.h"
+	<SDL_rotozoom.h>
+	"SDL_mixer.h"
+
+1359060525 d:\dropbox\sdl projects\b_hunter\math2d.h
+
+1359060914 source:d:\dropbox\sdl projects\b_hunter\math2d.cpp
+	"Math2D.h"
+	<cmath>
+
+1359064514 source:d:\git repos\game_stock\b_hunter\math2d.cpp
+	"Math2D.h"
+	<cmath>
+
+1359064125 d:\git repos\game_stock\b_hunter\math2d.h
+
+1356534357 source:d:\git repos\game_stock\b_hunter\timer.cpp
+	"Timer.h"
+	"SDL.h"
+
+1356534291 d:\git repos\game_stock\b_hunter\timer.h
+
+1359059985 source:d:\git repos\game_stock\b_hunter\classic_function.cpp
+	"classic_function.h"
+	<time.h>
+	<cstdlib>
+	"SDL_image.h"
+
+1356532873 d:\git repos\game_stock\b_hunter\classic_function.h
+	"SDL.h"
+	<string>
+
+1382559317 source:d:\git repos\game_stock\b_hunter\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL.h>
+	<vector>
+	<sstream>
+	<time.h>
+	"SDL_gfxPrimitives.h"
+	"constants.h"
+	"classic_function.h"
+	"Char.h"
+	"Timer.h"
+	"Math2D.h"
+	<SDL_rotozoom.h>
+	"SDL_mixer.h"
+
+1358970373 d:\git repos\game_stock\b_hunter\constants.h
+
+1361221978 d:\git repos\game_stock\b_hunter\char.h
+	"SDL.h"
+	<string>
+	<vector>
+
+1361224276 source:d:\git repos\game_stock\b_hunter\char.cpp
+	"Char.h"
+	"constants.h"
+	"classic_function.h"
+	<SDL_rotozoom.h>
+	"SDL_Image.h"
+

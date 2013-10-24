@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="forest_data" version="1.3.0" audacityversion="1.3.9" sel0="0.0000000000" sel1="17.4408163265" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100">
+	<tags>
+		<tag name="id3v2" value="1"/>
+		<tag name="ALBUM" value="B_Hunter"/>
+		<tag name="TITLE" value="Forest"/>
+		<tag name="ARTIST" value="Ice-Blaze"/>
+	</tags>
+	<wavetrack name="Piste audio" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="769140">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006b0.au" len="262144" min="-0.329214" max="0.277463" rms="0.061875"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00004f2.au" len="261236" min="-0.288639" max="0.30902" rms="0.05733"/>
+				</waveblock>
+				<waveblock start="523380">
+					<simpleblockfile filename="e0000956.au" len="245760" min="-0.2793" max="0.291821" rms="0.053149"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Piste audio" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="769140">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f3c.au" len="262144" min="-0.329145" max="0.277423" rms="0.061877"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000b98.au" len="261236" min="-0.288616" max="0.308838" rms="0.057338"/>
+				</waveblock>
+				<waveblock start="523380">
+					<simpleblockfile filename="e0000c66.au" len="245760" min="-0.279313" max="0.291785" rms="0.053126"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
